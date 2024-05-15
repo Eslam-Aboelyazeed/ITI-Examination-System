@@ -71,8 +71,6 @@ namespace ITI_ExaminationSystem
 
 
 
-
-
             db = examinationSystemContext;
 
             currentInstructor = ins;
